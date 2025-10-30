@@ -1366,6 +1366,7 @@ _Related: [Media Streaming - Video Streaming](#media-streaming---video-streaming
 
 _Related: [Video Surveillance](#video-surveillance), [Media Streaming - Multimedia Streaming](#media-streaming---multimedia-streaming), [Photo Galleries](#photo-galleries), [Media Management](#media-management)_
 
+-- [Stream Control Center](https://hub.zeibig.me) - A self-hosted web UI for managing 24/7 VOD-to-live streams. Handles playlists, rotations, and metadata updates (e.g., for Twitch) using FFmpeg. ([Source Code](https://github.com/Loip104/Stream-Control-Center)) `MIT` `Python/Flask`
 - [CyTube](https://github.com/calzoneman/sync) - Synchronize media, chat, and more for an arbitrary number of channels. ([Demo](https://cytu.be)) `MIT` `Nodejs`
 - [Invidious](https://github.com/iv-org/invidious) `⚠` - Alternative YouTube front-end. ([Demo](https://docs.invidious.io/instances/)) `AGPL-3.0` `Docker/Crystal`
 - [MediaCMS](https://mediacms.io) - Modern, fully featured open source video and media CMS, written in Python/Django/React, featuring a REST API. ([Source Code](https://github.com/mediacms-io/mediacms)) `AGPL-3.0` `Python/Docker`
